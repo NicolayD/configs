@@ -1,0 +1,20 @@
+{
+	"color_scheme": "Packages/Babel/Monokai Phoenix.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Sass",
+		"Vintage"
+	],
+	"rulers":
+	[
+		80
+	],
+	"tab_size": 2,
+	"theme": "Agila Neon.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"ignored_packages": [],
+	"vintage_ctrl_keys": true
+}
