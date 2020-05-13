@@ -4,8 +4,7 @@
 	"font_size": 12,
 	"ignored_packages":
 	[
-		"Sass",
-		"Vintage"
+		"Sass"
 	],
 	"rulers":
 	[
@@ -15,6 +14,5 @@
 	"theme": "Agila Neon.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"ignored_packages": [],
 	"vintage_ctrl_keys": true
 }
